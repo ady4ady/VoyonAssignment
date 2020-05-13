@@ -32,7 +32,12 @@ namespace Voyon.DotNet.Interview.Web.Controllers
         [ValidateInput(false)]
         public JsonResult EditTask(string id, TaskViewModel task)
         {
-            return Json(_taskLogic.Edit(id, task));
+            return new JsonResult()
+            {
+                JsonRequestBehavior = JsonRequestBehavior.AllowGet,
+                Data = new { result = _taskLogic.Edit(id, task) }
+            };
+           // return Json(_taskLogic.Edit(id, task), JsonRequestBehavior.AllowGet);
         }        
     }
 }

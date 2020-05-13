@@ -1,7 +1,11 @@
-﻿var dataId = 0;
-$(".editTask").click(function () {
+﻿$(".editTask").click(function () {
 
-    dataId = $(this).attr("data-id");
+   var dataId = $(this).attr("data-id");
+    var dataAssignedUserId = $(this).attr("data-assigneduserid");
+
+
+    $('#assignedUserId').val(dataAssignedUserId);
+
 
     $('#taskid').val(dataId);
     var url = "/Task/GetTaskJson";
@@ -17,4 +21,10 @@ $(".editTask").click(function () {
 
         }
     });
+
+    
 });
+
+function OnSuccess(data) {
+    location.reload();
+}
