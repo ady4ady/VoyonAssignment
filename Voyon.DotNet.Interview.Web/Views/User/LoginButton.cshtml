@@ -1,0 +1,10 @@
+﻿@model Voyon.DotNet.Interview.Logic.Models.LoginButtonViewModel
+
+@if (!Model.IsLoggedIn)
+{
+    @Html.ActionLink(Model.ButtonLabel, "Login", "User")
+}
+else
+{
+    @Model.CurrentUserName@:&nbsp @Html.ActionLink(Model.ButtonLabel, "Logout", "User")
+}

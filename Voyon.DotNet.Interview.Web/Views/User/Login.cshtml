@@ -1,0 +1,22 @@
+﻿@model Voyon.DotNet.Interview.Logic.Models.LoginViewModel
+
+<h1>Login</h1>
+@if (!string.IsNullOrEmpty(Model.ErrorMessage))
+{
+    <div class="alert alert-danger" role="alert">
+        @Model.ErrorMessage
+    </div>
+}
+@using (Html.BeginForm("Login", "User", FormMethod.Post))
+{
+
+    <div class="form-group">
+        <label for="Username">Username</label>
+        <input type="text" class="form-control" id="Username" name="Username" placeholder="Enter username" value="@Model.Username">
+    </div>
+    <div class="form-group">
+        <label for="Password">Password</label>
+        <input type="password" class="form-control" id="Password" name="Password" placeholder="Enter password">
+    </div>
+    <button type="submit" class="btn btn-primary">Login</button>
+}

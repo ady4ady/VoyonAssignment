@@ -1,0 +1,11 @@
+C:\Users\johnbo01\Downloads\dotnet-interview-example-master\dotnet-interview-example-master\src\IC.DotNet.Interview.Logic\bin\Debug\IC.DotNet.Interview.Logic.dll
+C:\Users\johnbo01\Downloads\dotnet-interview-example-master\dotnet-interview-example-master\src\IC.DotNet.Interview.Logic\bin\Debug\IC.DotNet.Interview.Logic.pdb
+C:\Users\johnbo01\Downloads\dotnet-interview-example-master\dotnet-interview-example-master\src\IC.DotNet.Interview.Logic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\johnbo01\Downloads\dotnet-interview-example-master\dotnet-interview-example-master\src\IC.DotNet.Interview.Logic\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\johnbo01\Downloads\dotnet-interview-example-master\dotnet-interview-example-master\src\IC.DotNet.Interview.Logic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\johnbo01\Downloads\dotnet-interview-example-master\dotnet-interview-example-master\src\IC.DotNet.Interview.Logic\obj\Debug\IC.DotNet.Interview.Logic.csprojResolveAssemblyReference.cache
+C:\Users\johnbo01\Downloads\dotnet-interview-example-master\dotnet-interview-example-master\src\IC.DotNet.Interview.Logic\obj\Debug\IC.DotNet.Interview.Logic.csproj.CoreCompileInputs.cache
+C:\Users\johnbo01\Downloads\dotnet-interview-example-master\dotnet-interview-example-master\src\IC.DotNet.Interview.Logic\obj\Debug\IC.DotNet.Interview.Logic.dll
+C:\Users\johnbo01\Downloads\dotnet-interview-example-master\dotnet-interview-example-master\src\IC.DotNet.Interview.Logic\obj\Debug\IC.DotNet.Interview.Logic.pdb
+C:\Users\johnbo01\Downloads\dotnet-interview-example-master\dotnet-interview-example-master\src\IC.DotNet.Interview.Logic\bin\Debug\Voyon.DotNet.Interview.Core.dll
+C:\Users\johnbo01\Downloads\dotnet-interview-example-master\dotnet-interview-example-master\src\IC.DotNet.Interview.Logic\bin\Debug\Voyon.DotNet.Interview.Core.pdb
