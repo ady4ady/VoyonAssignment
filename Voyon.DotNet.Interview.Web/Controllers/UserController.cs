@@ -42,7 +42,7 @@ namespace Voyon.DotNet.Interview.Web.Controllers
         public ActionResult Logout()
         {
             _authorizationLogic.TryLogout();
-            return RedirectToAction("Index", "Task");
+            return RedirectToAction("Login", "User");
         }
     }
 }
