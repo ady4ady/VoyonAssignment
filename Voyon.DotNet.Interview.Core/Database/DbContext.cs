@@ -9,7 +9,7 @@ namespace Voyon.DotNet.Interview.Core.Database
 {
     public class DbContext : IDbContext
     {
-        private const string DATABASE_PATH = @"D:\Voyon\Voyon.DotNet.Interview.Web\database.json";
+        private const string DATABASE_PATH = @"D:\VoyonAssignment\Voyon.DotNet.Interview.Web\database.json";
 
         private Database _database;
 

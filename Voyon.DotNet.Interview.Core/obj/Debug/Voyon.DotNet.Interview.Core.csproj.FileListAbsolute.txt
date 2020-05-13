@@ -24,3 +24,12 @@ D:\Voyon\Voyon.DotNet.Interview.Core\obj\Debug\Voyon.DotNet.Interview.Core.cspro
 D:\Voyon\Voyon.DotNet.Interview.Core\obj\Debug\Voyon.DotNet.Interview.Core.csproj.CopyComplete
 D:\Voyon\Voyon.DotNet.Interview.Core\obj\Debug\Voyon.DotNet.Interview.Core.dll
 D:\Voyon\Voyon.DotNet.Interview.Core\obj\Debug\Voyon.DotNet.Interview.Core.pdb
+D:\VoyonAssignment\Voyon.DotNet.Interview.Core\bin\Debug\Voyon.DotNet.Interview.Core.dll
+D:\VoyonAssignment\Voyon.DotNet.Interview.Core\bin\Debug\Voyon.DotNet.Interview.Core.pdb
+D:\VoyonAssignment\Voyon.DotNet.Interview.Core\bin\Debug\Newtonsoft.Json.dll
+D:\VoyonAssignment\Voyon.DotNet.Interview.Core\bin\Debug\Newtonsoft.Json.xml
+D:\VoyonAssignment\Voyon.DotNet.Interview.Core\obj\Debug\Voyon.DotNet.Interview.Core.csprojAssemblyReference.cache
+D:\VoyonAssignment\Voyon.DotNet.Interview.Core\obj\Debug\Voyon.DotNet.Interview.Core.csproj.CoreCompileInputs.cache
+D:\VoyonAssignment\Voyon.DotNet.Interview.Core\obj\Debug\Voyon.DotNet.Interview.Core.csproj.CopyComplete
+D:\VoyonAssignment\Voyon.DotNet.Interview.Core\obj\Debug\Voyon.DotNet.Interview.Core.dll
+D:\VoyonAssignment\Voyon.DotNet.Interview.Core\obj\Debug\Voyon.DotNet.Interview.Core.pdb

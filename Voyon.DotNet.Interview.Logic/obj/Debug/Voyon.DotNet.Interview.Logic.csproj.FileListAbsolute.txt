@@ -30,3 +30,14 @@ D:\Voyon\Voyon.DotNet.Interview.Logic\obj\Debug\Voyon.DotNet.Interview.Logic.csp
 D:\Voyon\Voyon.DotNet.Interview.Logic\obj\Debug\Voyon.DotNet.Interview.Logic.csproj.CopyComplete
 D:\Voyon\Voyon.DotNet.Interview.Logic\obj\Debug\Voyon.DotNet.Interview.Logic.dll
 D:\Voyon\Voyon.DotNet.Interview.Logic\obj\Debug\Voyon.DotNet.Interview.Logic.pdb
+D:\VoyonAssignment\Voyon.DotNet.Interview.Logic\bin\Debug\Voyon.DotNet.Interview.Logic.dll
+D:\VoyonAssignment\Voyon.DotNet.Interview.Logic\bin\Debug\Voyon.DotNet.Interview.Logic.pdb
+D:\VoyonAssignment\Voyon.DotNet.Interview.Logic\bin\Debug\Voyon.DotNet.Interview.Core.dll
+D:\VoyonAssignment\Voyon.DotNet.Interview.Logic\bin\Debug\Newtonsoft.Json.dll
+D:\VoyonAssignment\Voyon.DotNet.Interview.Logic\bin\Debug\Voyon.DotNet.Interview.Core.pdb
+D:\VoyonAssignment\Voyon.DotNet.Interview.Logic\bin\Debug\Newtonsoft.Json.xml
+D:\VoyonAssignment\Voyon.DotNet.Interview.Logic\obj\Debug\Voyon.DotNet.Interview.Logic.csprojAssemblyReference.cache
+D:\VoyonAssignment\Voyon.DotNet.Interview.Logic\obj\Debug\Voyon.DotNet.Interview.Logic.csproj.CoreCompileInputs.cache
+D:\VoyonAssignment\Voyon.DotNet.Interview.Logic\obj\Debug\Voyon.DotNet.Interview.Logic.csproj.CopyComplete
+D:\VoyonAssignment\Voyon.DotNet.Interview.Logic\obj\Debug\Voyon.DotNet.Interview.Logic.dll
+D:\VoyonAssignment\Voyon.DotNet.Interview.Logic\obj\Debug\Voyon.DotNet.Interview.Logic.pdb

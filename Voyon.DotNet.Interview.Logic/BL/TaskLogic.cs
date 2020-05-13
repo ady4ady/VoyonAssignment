@@ -72,15 +72,16 @@ namespace Voyon.DotNet.Interview.Logic.BL
             {
                 if (!string.IsNullOrEmpty(id))
                 {
-                    var assignId = task.AssignedUser == null ? "7997404d-8991-4eec-83c7-d4794e23921a" : task?.AssignedUser?.Id;
+                    //var assignId = task.AssignedUser == null ? "7997404d-8991-4eec-83c7-d4794e23921a" : task?.AssignedUser?.Id;
                     return _tasksRepository.Update(new Guid(id), new Task
                     {
                         Id = new Guid(task.Id),
                         Title = task.Title,
                         Description = task.Description,
                         IsFinished = task.IsFinished,
-                        AssignedUserId = new Guid(assignId)
-                        // AssignedUserId = new Guid(task.AssignedUser.Id)
+                        AssignedUserId = new Guid(task.AssignedUser.Id)
+
+                        //AssignedUserId = new Guid(assignId)
                     });
                 }
                 else
